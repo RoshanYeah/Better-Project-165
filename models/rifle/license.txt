@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gun
+* source:	https://sketchfab.com/3d-models/gun-6475db58c91345b09db7ca95986a8922
+* author:	PoketCoco (https://sketchfab.com/PoketCoco)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gun" (https://sketchfab.com/3d-models/gun-6475db58c91345b09db7ca95986a8922) by PoketCoco (https://sketchfab.com/PoketCoco) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

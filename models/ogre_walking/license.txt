@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ogre Walking
+* source:	https://sketchfab.com/3d-models/ogre-walking-c1e45a06ae8d43c2b058a6e52e8aa596
+* author:	joshuayap17 (https://sketchfab.com/joshuayap17)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ogre Walking" (https://sketchfab.com/3d-models/ogre-walking-c1e45a06ae8d43c2b058a6e52e8aa596) by joshuayap17 (https://sketchfab.com/joshuayap17) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
